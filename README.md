@@ -8,6 +8,7 @@ App consists:
 * Load todos
 * Add and Delete todos
 * Toggle and raname todos
+
 We can also control the [status](https://prnt.sc/VspJpOL3MwqZ) of todo, and toggle all todos [completed](https://prnt.sc/YG-L9nZwBGgW) and inncompleted.
 The app has been built with Context and Reducer support which contains all the application states.
 Also, the Fetch method like POST, PATH, GET, DELETE
