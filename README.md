@@ -1,8 +1,7 @@
 # React Todo App with API
 
-Hello there!
-
 ## About
+Hello there!
 It's a todo react app with API
 
 ## Technologies used:
