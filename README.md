@@ -1,9 +1,10 @@
-# React Todo App with API (complete)
+# React Todo App with API
+
 Hello there, it's a todo react app with API
 
-Technology: -React -Context -Reducer -TypeScript
+Technology: -React -Context -Reducer -TypeScript -API -Fetch methods
 
-Preview Link - https://zubyk-yaroslav.github.io/JS_2048/
+Preview Link - https://zubyk-yaroslav.github.io/To-Do-app-react-API/
 
 To start:
 
