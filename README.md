@@ -19,5 +19,10 @@ It's a todo react app with API
 ```
 $ npm install / npm i
 $ npm start
-$ npm run lint for lint checking (html, js and scss)
+```
+
+To run this command, for lint checking (html, js and scss)
+
+```
+$ npm run lint
 ```
