@@ -1,11 +1,24 @@
 # React Todo App with API
 
-Hello there, it's a todo react app with API
+Hello there!
 
-Technology: -React -Context -Reducer -TypeScript -API -Fetch methods
+## About
+It's a todo react app with API
 
-Preview Link - https://zubyk-yaroslav.github.io/To-Do-app-react-API/
+## Technologies used:
+-React
+-Context
+-Reducer
+-TypeScript
+-API
+-Fetch methods
 
-To start:
+## Preview Link:
+* [DEMO LINK](https://zubyk-yaroslav.github.io/To-Do-app-react-API/)
 
-In main folder run npm install then npm start The command npm run lint for lint checking (html, js and scss codes)
+## Run locally(node ... required):
+```
+$ npm install / npm i
+$ npm start
+$ npm run lint for lint checking (html, js and scss)
+```
