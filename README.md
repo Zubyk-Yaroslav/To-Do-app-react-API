@@ -15,7 +15,7 @@ It's a todo react app with API
 ## Preview Link:
 * [DEMO LINK](https://zubyk-yaroslav.github.io/To-Do-app-react-API/)
 
-## Run locally(node ... required):
+## Run locally(node 14.*.* required):
 ```
 $ npm install / npm i
 $ npm start
