@@ -2,16 +2,19 @@
 
 ## About
 Hello there!
+
 It's a todo react app with API
 The app works with API and loads todos by UserId from (Mate Academy).
 App consists:
 * Load todos
 * Add and Delete todos
-* Toggle and raname todos
+* Toggle all todos completed
+* Rename todos
+* Clear all completed todos
 
-We can also control the [status](https://prnt.sc/VspJpOL3MwqZ) of todo, and toggle all todos [completed](https://prnt.sc/YG-L9nZwBGgW) and inncompleted.
+We can also control the [status](https://prnt.sc/VspJpOL3MwqZ) of todo, and toggle all todos [completed](https://prnt.sc/JJ1Syu23Ku1F) and inncompleted.
 The app has been built with Context and Reducer support which contains all the application states.
-Also, the Fetch method like POST, PATH, GET, DELETE
+Also, the Fetch methods like POST, PATH, GET, DELETE
 
 ## Technologies used:
 * React
@@ -20,7 +23,6 @@ Also, the Fetch method like POST, PATH, GET, DELETE
 * TypeScript
 * API
 * Fetch methods
-* Promises
 
 ## Preview Link:
 * [DEMO LINK](https://zubyk-yaroslav.github.io/To-Do-app-react-API/)
