@@ -23,7 +23,7 @@ Also, the Fetch methods like POST, PATH, GET, DELETE
 
 ## Technologies used:
 * React
-* Context
+* ReactContext
 * Reducer
 * TypeScript
 * API
