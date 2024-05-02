@@ -13,7 +13,9 @@ App consists:
 * Clear all completed todos
 
 We can also control the [status](https://prnt.sc/VspJpOL3MwqZ) of todo, and toggle all todos [completed](https://prnt.sc/JJ1Syu23Ku1F) and inncompleted.
+
 The app has been built with Context and Reducer support which contains all the application states.
+
 Also, the Fetch methods like POST, PATH, GET, DELETE
 
 ![ezgif-5-3075dd9918](https://github.com/Zubyk-Yaroslav/To-Do-app-react-API/assets/29046059/aaea8cc2-e3db-4df1-9f97-456e1bac1976)
