@@ -38,7 +38,7 @@ $ npm install / npm i
 $ npm start
 ```
 
-Run this command, for lint checking (html, js and scss)
+Run this command, for lint checking (html, js and CSS)
 
 ```
 $ npm run lint
